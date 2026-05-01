@@ -1,0 +1,11 @@
+   <script src=" {{ asset('frontend/assets/js/jquery.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/bootstrap.bundle.min.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/slick.min.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/magnific-popup.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/purecounter.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/wow.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/nice-select.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/swiper-bundle.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/isotope-pkgd.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/imagesloaded-pkgd.js') }}"></script>
+   <script src=" {{ asset('frontend/assets/js/main.js') }}"></script>
